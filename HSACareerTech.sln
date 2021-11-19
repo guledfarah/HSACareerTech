@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSACareerTech.BL", "HSACareerTech.BL\HSACareerTech.BL.csproj", "{DB27CF83-E201-49EF-93D7-32F565212441}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{F1A5EE34-7E51-44FC-96A8-82E454B6FDCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HSACareerTech.BLTest", "Tests\HSACareerTech.BLTest\HSACareerTech.BLTest.csproj", "{77CC3A6D-D49F-4E93-90A4-082E9D5FF811}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB27CF83-E201-49EF-93D7-32F565212441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB27CF83-E201-49EF-93D7-32F565212441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB27CF83-E201-49EF-93D7-32F565212441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB27CF83-E201-49EF-93D7-32F565212441}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CC3A6D-D49F-4E93-90A4-082E9D5FF811}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CC3A6D-D49F-4E93-90A4-082E9D5FF811}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CC3A6D-D49F-4E93-90A4-082E9D5FF811}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CC3A6D-D49F-4E93-90A4-082E9D5FF811}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{77CC3A6D-D49F-4E93-90A4-082E9D5FF811} = {F1A5EE34-7E51-44FC-96A8-82E454B6FDCE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6D857F9-30F4-42EC-B1FC-3BB471B86449}
+	EndGlobalSection
+EndGlobal
